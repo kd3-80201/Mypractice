@@ -1,4 +1,5 @@
 class tree{
+    //Encapsulation
    private int google;
 
    public void setGoogle(int gi){
